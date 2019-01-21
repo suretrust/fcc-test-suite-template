@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+
+html, 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+	background-color: #e3e6e8;
+
+	position: relative;
+	left: 10px;
+	right: 10px;
+}
+#title{
+	padding-top: 50px;
+	height: 100px;
+	text-align: center;
+}
+#image{
+	display: block;
+	margin: 0 auto;
+	max-width:100%;
+	height: auto;
+	
+}
+#img-caption{
+	text-align: center;
+}
